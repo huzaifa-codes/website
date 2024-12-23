@@ -1,0 +1,96 @@
+
+
+.navbar {
+  background: linear-gradient(to right, #ffffff, #ca4e4e);
+  }
+  .list-group-item:hover {
+    background-color: #e0a80d;
+    cursor: pointer;
+  }
+  .list-group-item{
+    background: linear-gradient(to right, #ffffff, #be5959);
+  
+    width: 225px;
+  }
+  .carousel-inner img {
+    height: 419px;
+   
+  
+  }
+.fa-solid{
+  font-size: 30PX;
+  /* margin-left: 20PX; */
+  padding: 6px;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* .about {
+  background: linear-gradient(360deg, #f5fffb 0%, #adfca3 100%);
+  padding: 50px 20px;
+  text-align: center;
+  border: none; /* Ensures no border */
+/* } */
+
+.about h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+.about p {
+  font-size: 1rem;
+  color: #323030;
+  max-width: 900px;
+ margin-left: 50px;
+ 
+}
+
+.about-info {
+  display: flex;
+ 
+
+ 
+  margin-top: 20px;
+}
+
+.about-img {
+  width: 60rem;
+  height: 20rem;
+  margin-right: 20px;
+  background: linear-gradient(to right, #d10404, #dd0a0a);
+  
+}
+
+.about-img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px; /* Optional: for rounded corners */
+   /* Ensures the image covers the area */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  /* background-color: #40b736; */
+  /* color: white; */
+  border: none; /* No border */
+  border-radius: 4px; /* Optional: for rounded corners */
+  cursor: pointer;
+  margin-left: 50px;
+}
+
+/* button:hover {
+  background-color: #1f9405; /* Darker shade on hover */
+/* } */
+
+
